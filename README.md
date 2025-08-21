@@ -177,7 +177,6 @@ pipeline.list_executions()
 The pipeline can be integrated with:
 - **AWS EventBridge**: For scheduled executions
 - **AWS Lambda**: For event-driven triggers
-- **SageMaker Projects**: For CI/CD integration
 
 ## 📊 Monitoring and Logging
 
